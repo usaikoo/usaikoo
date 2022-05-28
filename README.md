@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Sai Ko</h1>
 <h3 align="center">I have a passion for software. I enjoy creating tools that make life easier for people.</h3>
 
-![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.svg)
-
+<!-- ![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.svg)
+ -->
 <h1 align="center">TECHNOLOGY</h1>
 
 <p align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -36,7 +36,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=usaikoo&&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="U SaiKo" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="U SaiKo" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo&hide_border=true&no-bg=true&no-frame=true" />
 
 
   
