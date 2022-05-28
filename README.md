@@ -25,12 +25,36 @@
 
 <h1 align="center">STATS</h1><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usaikoo" alt="usaikoo" /> </p>
-<p>
+
+
+
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<!-- <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=usaikoo&show_icons=true&hide_border=true&card_width=200" alt="usaikoo" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo&fire=4F94EF&ring=4F94EF&hide_border=true&card_width=200" alt="usaikoo" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" /> -->
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF&line=4F94EF&point=4F94EF&area_color=blue)
