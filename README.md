@@ -58,9 +58,7 @@
 <a href="https://twitter.com/USaiKo1" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
 </a>
 
-<a href="https://codepen.io/ravisolanki27" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
-</a>
+
 
 <a href="https://www.instagram.com/usaiko.dev" target="blank">
 <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
