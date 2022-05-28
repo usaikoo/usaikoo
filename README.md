@@ -48,6 +48,7 @@
 <a href="mailto:info@usaiko.dev" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/apple-mail.png" width="20"></img>
 </a>
+</br>
 🔭 I’m not currently working for anyone.
 
 </div>
