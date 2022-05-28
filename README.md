@@ -62,7 +62,7 @@
 <h1 align="center">SOCIAL</h1>
 <div align="center">
 <a href="https://usaiko.dev" target="blank">
-<img src="https://img.icons8.com/ios-filled/344/webmoney.png" width="20"></img>
+<img src="https://img.icons8.com/ios-filled/344/webmoney.png" color="blue" width="20"></img>
 </a>
 <a href="https://www.linkedin.com/in/usaiko" target="blank">
 <img src="https://img.icons8.com/ios-glyphs/344/linkedin-circled--v1.png" width="20"></img>
