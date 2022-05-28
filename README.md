@@ -32,7 +32,9 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF&line=4F94EF&point=4F94EF&area_color=blue)
 
 
-![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+<img src="https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.gif"></img>
+</p>
 
 <h1 align="center">SOCIAL</h1>
 <div align="center">
