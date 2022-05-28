@@ -33,10 +33,8 @@
 
 
 ![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.gif)
-🔭 I’m not currently working for anyone.
 
 <h1 align="center">SOCIAL</h1>
-
 <div align="center">
 <a href="https://usaiko.dev" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/webmoney.png" width="20"></img>
@@ -50,6 +48,8 @@
 <a href="mailto:info@usaiko.dev" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/apple-mail.png" width="20"></img>
 </a>
+🔭 I’m not currently working for anyone.
+
 </div>
 
 
