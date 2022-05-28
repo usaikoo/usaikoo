@@ -4,11 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sai Ko</h1>
 <h3 align="center">I have a passion for software. I enjoy creating tools that make life easier for people.</h3>
 
----
 
-- 🔭 I’m not currently working for anyone.
-
----
 
 <h1 align="center">TECHNOLOGY</h1>
 
@@ -44,7 +40,7 @@
 
 
 <a href="https://usaiko.dev" target="blank"><h1 align="center">BLOGS</h1>
-</a>
+</a> 🔭 I’m not currently working for anyone.
 
 
 ---
@@ -61,6 +57,7 @@
 <a href="https://www.instagram.com/usaiko.dev" target="blank">
 <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
 </a>
+  
 
 <a href="#" target="blank">
 <img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
