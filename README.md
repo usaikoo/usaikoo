@@ -24,8 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
 
----
-
 <h1 align="center">STATS</h1><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usaikoo" alt="usaikoo" /> </p>
 
