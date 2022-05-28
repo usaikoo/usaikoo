@@ -46,21 +46,14 @@
 
 ---
 <h1 align="center">PROJECTS</h1>
-
-<h4>1. Todo app using ReactJS </h4>
-
-<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
-
-
-<h4>2. Random Quote generator using NodeJs </h4>
+<h4>1. Random Quote generator using NodeJs </h4>
 
 <a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
 
 ---
 
 <h1 align="center">BLOGS</h1>
-<a href="https://www.linkedin.com/pulse/what-5-things-you-must-do-your-first-paycheck-raviraj-solanki/" target="blank">
-<img src="https://media-exp1.licdn.com/dms/image/C4D12AQHVBf5FWRnp0w/article-cover_image-shrink_720_1280/0/1638538607562?e=1649289600&v=beta&t=nsF1Hf0YkmXip-kGt031yqNAHaOD3TkuNSl4hVwF52c" ></a>
+<a href="https://usaiko.dev" target="blank">
 
 
 ---
@@ -69,18 +62,18 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ravirajsolanki27/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-<a href="https://twitter.com/Ravirajsolanki_" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
+<a href="https://twitter.com/USaiKo1" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
 </a>
 
 <a href="https://codepen.io/ravisolanki27" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
 </a>
 
-<a href="https://www.instagram.com/ravi_27.01" target="blank">
+<a href="https://www.instagram.com/usaiko.dev" target="blank">
 <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
 </a>
 
-<a href="https://www.youtube.com/channel/UCpBGxQbi-wahJ7wRaG80E6w" target="blank">
+<a href="#" target="blank">
 <img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
 </a>
 
