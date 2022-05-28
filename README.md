@@ -1,5 +1,7 @@
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
+
+![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Sai Ko</h1>
 <h3 align="center">I have a passion for software. I enjoy creating tools that make life easier for people.</h3>
