@@ -32,7 +32,7 @@
 
 <h1 align="center">STATS</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaviSolanki27" alt="ravisolanki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=usaikoo" alt="usaikoo" /> </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usaikoo&theme=gotham&show_icons=true" alt="usaikoo" />
 
