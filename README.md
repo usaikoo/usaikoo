@@ -62,16 +62,16 @@
 <h1 align="center">SOCIAL</h1>
 <div align="center">
 <a href="https://usaiko.dev" target="blank">
-<img src="https://img.icons8.com/ios-filled/344/webmoney.png" background-color="blue" width="20"></img>
+<img src="https://img.icons8.com/color/344/webmoney.png"  width="20"></img>
 </a>
 <a href="https://www.linkedin.com/in/usaiko" target="blank">
-<img src="https://img.icons8.com/ios-glyphs/344/linkedin-circled--v1.png" width="20"></img>
+<img src="https://img.icons8.com/fluency/344/linkedin-circled.png" width="20"></img>
 </a>
 <a href="https://www.instagram.com/usaiko.dev" target="blank">
-<img src="https://img.icons8.com/ios-filled/344/instagram-new--v1.png" width="20"></img>
+<img src="https://img.icons8.com/ios-filled/344/4a90e2/instagram-new--v1.png" width="20"></img>
 </a>
 <a href="mailto:info@usaiko.dev" target="blank">
-<img src="https://img.icons8.com/ios-filled/344/apple-mail.png" width="20"></img>
+<img src="https://img.icons8.com/ios-filled/344/4a90e2/gmail-new.png" width="20"></img>
 </a>
 </br>
 🔭 I’m not currently working for anyone.
