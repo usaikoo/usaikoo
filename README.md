@@ -43,7 +43,6 @@
 </a> 🔭 I’m not currently working for anyone.
 
 
----
 
 <h1 align="center">SOCIAL</h1>
 
