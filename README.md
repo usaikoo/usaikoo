@@ -25,11 +25,8 @@
 
 <h1 align="center">STATS</h1><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usaikoo" alt="usaikoo" /> </p>
-
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usaikoo&show_icons=true&hide_border=true" alt="usaikoo" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo&fire=4F94EF&ring=4F94EF&hide_border=true" alt="usaikoo" />
-</br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" />
 </p>
 
