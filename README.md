@@ -1,6 +1,7 @@
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 
+![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Sai Ko</h1>
 <h3 align="center">I have a passion for software. I enjoy creating tools that make life easier for people.</h3>
@@ -33,9 +34,9 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=usaikoo&&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&&hide_border=true" />
 
 
   
@@ -43,7 +44,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=usaikoo&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -56,11 +57,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" /> -->
 
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF&line=4F94EF&point=4F94EF&area_color=blue)
-
-
-<h1 align="center">SOCIAL</h1>
 <div align="center">
 <a href="https://usaiko.dev" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/webmoney.png" width="20"></img>
@@ -74,9 +70,6 @@
 <a href="mailto:info@usaiko.dev" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/apple-mail.png" width="20"></img>
 </a>
-</br>
-🔭 I’m not currently working for anyone.
-
 </div>
 
 
