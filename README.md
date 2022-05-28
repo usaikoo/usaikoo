@@ -36,7 +36,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usaikoo&show_icons=true&hide_border=true" alt="usaikoo" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats" alt="usaikoo" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo" alt="usaikoo" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" /></p>
 
 
