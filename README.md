@@ -46,7 +46,7 @@
 
 
 <h1 align="center">BLOGS</h1>
-<a href="https://usaiko.dev" target="blank">
+<a href="https://usaiko.dev" target="blank"></a>
 
 
 ---
@@ -54,7 +54,7 @@
 <h1 align="center">SOCIAL</h1>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/ravirajsolanki27/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/usaiko" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 <a href="https://twitter.com/USaiKo1" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
 </a>
 
