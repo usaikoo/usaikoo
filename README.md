@@ -29,7 +29,7 @@
 </p>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usaikoo=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usaikoo&theme=dark&show_icons=true)
 <h1 align="center">STATS</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usaikoo" alt="usaikoo" /> </p>
