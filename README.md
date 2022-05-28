@@ -44,13 +44,6 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&theme=react-dark&hide_border=true&area=true)
 
----
-<h1 align="center">PROJECTS</h1>
-<h4>1. Random Quote generator using NodeJs </h4>
-
-<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
-
----
 
 <h1 align="center">BLOGS</h1>
 <a href="https://usaiko.dev" target="blank">
