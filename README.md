@@ -30,8 +30,8 @@
 
 
 
-<table border="0" align="center">
-<tr border="0">
+<table border="none" align="center">
+<tr border="none">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=usaikoo&&show_icons=true&count_private=true&hide_border=true&no-bg=true&no-frame=true" />
