@@ -2,7 +2,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Sai Ko</h1>
-<h3 align="center">I'm a Software Engineer, technical enthusiast who does web development, application. Passionate to contribute open-source projects and create cool content.</h3>
+<h3 align="center">I have a passion for software. I enjoy creating tools that make life easier for people.</h3>
 
 ---
 
