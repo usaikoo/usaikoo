@@ -37,7 +37,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usaikoo&show_icons=true" alt="usaikoo" />
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=usaikoo&date_format=M%20j%5B%2C%20Y%5D" alt="usaikoo" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=1000" alt="usaikoo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&border_hide=true" alt="usaikoo" /></p>
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&theme=react-dark&hide_border=true&area=true)
