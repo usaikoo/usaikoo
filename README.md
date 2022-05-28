@@ -4,15 +4,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h1 align="center">Hi 👋, I'm Sai Ko</h1>
-<h3 align="center">I'm an Engineer and a 22-year old technical enthusiast who does web development, Blogging and Designing. Passionate to contribute open-source projects and create cool content.</h3>
+<h3 align="center">I'm a Software Engineer, technical enthusiast who does web development, application. Passionate to contribute open-source projects and create cool content.</h3>
 
 ---
 
-- 🔭 I’m currently working on [Portfolio website]()
-
-- 🌱 I’m currently learning **M E R N**
-
-- 📫 How to reach me **ravisolanki9322@gmail.com**
+- 🔭 I’m not currently working for anyone.
 
 ---
 
