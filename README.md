@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" /></p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF&line=blue&point=4F94EF)
 
 
 <a href="https://usaiko.dev" target="blank"><h1 align="center">BLOGS</h1>
