@@ -29,8 +29,9 @@
 </p>
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usaikoo&show_icons=true)
+
 <h1 align="center">STATS</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usaikoo&theme=default&show_icons=true)
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=usaikoo" alt="usaikoo" /> </p>
  -->
