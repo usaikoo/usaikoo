@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Sai Ko</h1>
 <h3 align="center">I have a passion for software. I enjoy creating tools that make life easier for people.</h3>
 
-![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">TECHNOLOGY</h1>
 
@@ -33,10 +32,8 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF&line=4F94EF&point=4F94EF&area_color=blue)
 
 
-<a href="https://usaiko.dev" target="blank"><h1 align="center">BLOGS</h1>
-</a> 🔭 I’m not currently working for anyone.
-
-
+![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.gif)
+🔭 I’m not currently working for anyone.
 
 <h1 align="center">SOCIAL</h1>
 
