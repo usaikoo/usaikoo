@@ -58,6 +58,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" /> -->
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF&line=4F94EF&point=4F94EF&area_color=blue)
+
+<h1 align="center">SOCIAL</h1>
 <div align="center">
 <a href="https://usaiko.dev" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/webmoney.png" width="20"></img>
@@ -71,6 +73,8 @@
 <a href="mailto:info@usaiko.dev" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/apple-mail.png" width="20"></img>
 </a>
+</br>
+🔭 I’m not currently working for anyone.
 </div>
 
 
