@@ -61,7 +61,8 @@
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" /> -->
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=usaikoo&hide_border=true&area=true&bg_color=white&color=4F94EF&line=4F94EF&point=4F94EF&area_color=blue)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=usaikoo&bg_color=fff&color=000&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/usaikoo/github-readme-activity-graph)
+
 
 <h1 align="center">SOCIAL</h1>
 <div align="center">
