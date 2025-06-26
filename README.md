@@ -79,7 +79,6 @@
 <img src="https://img.icons8.com/ios-filled/344/4a90e2/gmail-new.png" width="20"></img>
 </a>
 </br>
-🔭 I’m not currently working for anyone.
 </div>
 
 
